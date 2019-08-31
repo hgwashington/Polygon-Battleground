@@ -4,7 +4,7 @@
  
  * In-game the user controls the green diamond with the direction pad buttons.
  
- * If the player makes captures (makes contact with) the pink diamond then the player wins, otherwise contact with any other      shape will result is a loss
+ * If the player captures (makes contact with) the pink diamond then the player wins, otherwise contact with any other      shape will result is a loss
  
 
 
