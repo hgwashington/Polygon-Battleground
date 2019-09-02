@@ -1,5 +1,7 @@
 # Polygon-Battleground
 
+<img src="https://github.com/hgwashington/Polygon-Battleground/blob/master/polygon%20battleground.gif?raw=true">
+
  * Polygon-Battleround is a single player, target capture, collision avoidance game.
  
  * In-game the user controls the green diamond with the direction pad buttons.
